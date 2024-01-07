@@ -11,7 +11,8 @@ header {
     background-repeat: no-repeat;
     background-position: bottom right, top left;
     margin: 0 0 0px 10px;
-    height: 760px;
+    background-size: auto auto, 120px 750px;
+    
 }
 nav {
     display: flex;
@@ -68,7 +69,7 @@ background: #FD6E0A;
 }
 .banner img {
     width: 550px;
-    height: 615px;
+    height: 625px;
 
 }
 .c {
